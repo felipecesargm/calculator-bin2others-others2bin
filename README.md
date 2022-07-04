@@ -1,5 +1,6 @@
 # calculator-bin2others-others2bin
 Atividade da faculdade para testar os conhecimentos obtidos nas aulas introdutórias de python.
+Calculadora que converte números decimais para outras bases e de outras bases para números decimais.
 
 <br>
 
